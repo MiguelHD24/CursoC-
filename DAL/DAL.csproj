@@ -51,6 +51,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BDDBVENTASDEMO.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="DAL_Arqueo_Caja.cs" />
+    <Compile Include="DAL_Categoria.cs" />
+    <Compile Include="DAL_Cliente.cs" />
+    <Compile Include="DAL_Compra.cs" />
+    <Compile Include="DAL_Detalle_Compra.cs" />
+    <Compile Include="DAL_Detalle_Venta.cs" />
+    <Compile Include="DAL_Metodo_Pago.cs" />
+    <Compile Include="DAL_Negocio.cs" />
+    <Compile Include="DAL_Permiso.cs" />
+    <Compile Include="DAL_Producto.cs" />
+    <Compile Include="DAL_Proveedor.cs" />
+    <Compile Include="DAL_Rol.cs" />
+    <Compile Include="DAL_Usuario.cs" />
+    <Compile Include="DAL_Venta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

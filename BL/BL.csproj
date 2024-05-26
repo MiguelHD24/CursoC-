@@ -51,6 +51,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BL_Arqueo_Caja.cs" />
+    <Compile Include="BL_Categoria.cs" />
+    <Compile Include="BL_Cliente.cs" />
+    <Compile Include="BL_Compra.cs" />
+    <Compile Include="BL_Detalle_Compra.cs" />
+    <Compile Include="BL_Detalle_Venta.cs" />
+    <Compile Include="BL_Metodo_Pago.cs" />
+    <Compile Include="BL_Negocio.cs" />
+    <Compile Include="BL_Permiso.cs" />
+    <Compile Include="BL_Producto.cs" />
+    <Compile Include="BL_Proveedor.cs" />
+    <Compile Include="BL_Rol.cs" />
+    <Compile Include="BL_Usuario.cs" />
+    <Compile Include="BL_Venta.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
